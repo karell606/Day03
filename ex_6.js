@@ -10,4 +10,4 @@ function getIndexFromName(name){
   
   }
   
-  displayResult(getIndexFromName("Kiwi"));
+  displayResult(getIndexFromName("Banana"));
